@@ -1,0 +1,31 @@
+{
+  "name": "cursospajavascript",
+  "version": "1.0.0",
+  "description": "single page aplication",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allam9573/Proyecto-SPA-App.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Allam Argueta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Allam9573/Proyecto-SPA-App/issues"
+  },
+  "homepage": "https://github.com/Allam9573/Proyecto-SPA-App#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0",
+    "webpack-server": "^0.1.2"
+  }
+}
